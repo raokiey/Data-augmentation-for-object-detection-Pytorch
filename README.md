@@ -1,6 +1,6 @@
 # Data augmentation for object detection
 
-Pytorch implemented of data augmentation for object detection.   
+Data augmentation for object detection for Pytorch.   
 Please see [`implemented_augmentation.ipynb`](implemented_augmentation.ipynb) for each processing.  
 Also, please see [`example.ipynb`](example.ipynb) for usage.
 
